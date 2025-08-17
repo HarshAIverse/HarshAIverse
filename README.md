@@ -44,18 +44,6 @@ I'm an aspiring developer passionate about building **AI-powered IoT solutions, 
 
 ---
 
-## 🖥 GitHub Contribution Graph:
-[![Harshal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshAIverse&theme=react-dark&area=true&hide_border=true)](https://github.com/HarshAIverse)
-
----
-
-## 👨‍💻 Developer Profile Card:
-<a href="https://github.com/HarshAIverse">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshAIverse&theme=github_dark" />
-</a>
-
----
-
 ## 🧰 Skills Toolbox:
 | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) | ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv) |
 |---|---|---|
