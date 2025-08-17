@@ -2,9 +2,9 @@
 
 # Hi, I'm Harshal Suryavanshi 👋
 
-*IoT Developer | Python Developer | AIML Enthusiast | UI/UX Explorer*
+**IoT Developer | Python Developer | AIML Enthusiast | UI/UX Explorer**
 
-I'm an aspiring developer passionate about building *AI-powered IoT solutions, real-time applications, and intuitive user experiences. Currently pursuing my **B.Tech in Artificial Intelligence and Machine Learning* at *Sanjay Ghodawat University*, I love blending hardware with AI to create smart, automated systems.
+I'm an aspiring developer passionate about building **AI-powered IoT solutions, real-time applications, and intuitive user experiences**. Currently pursuing my **B.Tech in Artificial Intelligence and Machine Learning** at **Sanjay Ghodawat University**, I love blending hardware with AI to create smart, automated systems.
 
 ---
 
@@ -23,7 +23,7 @@ I'm an aspiring developer passionate about building *AI-powered IoT solutions, r
 ## 🔧 Projects I'm Proud Of:
 - *Sign Language Translator (ISL & ASL) [Ongoing]*
 - *E-commerce Customer Behavior Analysis*
-- *Weather App*
+- *Heart Attack Prediction and Analysis*
 - *IoT-Based Automated Billing System [Ongoing]*
 
 ---
